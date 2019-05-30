@@ -97,11 +97,11 @@ client.on('message', message => {
 
  ❖ ${prefix}rbc <message> ➾ Message To Who Have Role
 
- ❖ ${prefix}inv ➾ Link For Invite Me To Your Server
+ ❖ ${prefix}inv ➾ Link For Invite 	Vip To Your Server
   
  ❖ ${prefix}bot ➾ Info Bot
  
- ❖ ${prefix}support ➾ Invite To Server Made Me
+ ❖ ${prefix}support ➾ Invite To Server Vip 
  
  ❖ ${prefix}ping ➾ Test My Ping
 
@@ -113,11 +113,11 @@ Support server : ||||
 
 [❖═════════════════════════════❖]
 
-Server Made Me : Jokars Shop
+Server Made Vip : Vip Shop
 
 [❖═════════════════════════════❖]
  
-<@484361588766146560> OWNER
+<@577226152175992882> OWNER
 
 [❖═════════════════════════════❖]
 
